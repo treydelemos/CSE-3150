@@ -63,5 +63,6 @@ int main(int argc, char* argv[]) {
 
     delete[] labels;
     delete[] values;
+    
     return 0;
 }
